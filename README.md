@@ -10,7 +10,7 @@ ali-green is a sdk for aliyun green api
 
 ## Usage
 
-An example file can be found at [main_test.go](https://github.com/Zfzlv/ali-green/main_test.go)
+An example file can be found at [main_test.go](https://github.com/Zfzlv/ali-green/blob/master/main_test.go)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
